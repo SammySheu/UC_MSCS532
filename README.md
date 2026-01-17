@@ -90,6 +90,13 @@ To run the insertion sort program:
 python3 insertion_sort.py
 ```
 
+## Testing the script
+
+```bash
+python3 test_insertion.py
+```
+
+
 ## Resources
 
 - [Python Official Website](https://www.python.org/downloads)
