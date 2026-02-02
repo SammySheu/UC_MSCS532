@@ -6,7 +6,7 @@ This repository contains coursework and assignments for the Algorithms and Data 
 ## Python Setup Instructions
 
 ### Requirements
-- **Python Version**: 3.8 or higher (recommended: 3.12)
+- **Python Version**: 3.9 or higher (recommended: 3.12)
 - **Operating Systems**: macOS and Linux
 
 ### Installation
